@@ -6,6 +6,8 @@
 # website-api.js
 
 _A lighweight object oriented wrapper for the BTE website api._
+  
+![official](https://go.buildtheearth.net/official-shield)
 
 </div>
 <!-- markdownlint-restore -->
